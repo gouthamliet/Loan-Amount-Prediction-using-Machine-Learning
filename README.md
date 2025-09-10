@@ -1,12 +1,5 @@
 # Loan-Amount-Prediction-using-Machine-Learning
 A simple machine learning project that predicts the loan amount based on applicant details such as income, loan term, and credit history. The project uses Python, pandas, and scikit-learn to preprocess data, train a Linear Regression model, evaluate its performance, and save it for reuse.
-# Loan Amount Prediction
-
-This project aims to predict the loan amount that will be sanctioned based on various applicant and loan-related features. The solution leverages machine learning techniques to build a predictive model using a dataset containing loan application details.
-
-## Project Overview
-
-Loan amount prediction is an essential task for financial institutions to estimate the loan amount eligible for applicants based on their profile. This project involves data preprocessing, exploratory data analysis, feature engineering, and model building to predict loan amounts accurately.
 
 ## Dataset
 
