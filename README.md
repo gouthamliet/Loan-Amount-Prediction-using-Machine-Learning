@@ -30,9 +30,4 @@ The dataset is typically sourced from a CSV file (`train.csv` or `loan_data.csv`
 5. **Model Evaluation**  
    Evaluating models using metrics such as RMSE (Root Mean Squared Error) and R² (Coefficient of Determination).
 
-## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/BhavinAghera/Loan-Amount-Prediction.git
-   cd Loan-Amount-Prediction
